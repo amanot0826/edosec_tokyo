@@ -1,0 +1,18 @@
+---
+layout: default
+title: EdoSec
+---
+
+<div id="home">
+	<h2>次回の江戸sec | Next EdoSec</h2>
+  <h2><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>  
+
+  <br/>
+
+  <h3>以前の江戸sec | Previous EdoSec Events</h3>
+<ul class="posts">
+    {% for post in site.posts limit:3 offset:1 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
