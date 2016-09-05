@@ -1,6 +1,6 @@
-# Edos.ec
+# Edos.ec renewed to edosec.tokyo
 
-Edos.ec is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) into a static site whenever this repository is pushed to GitHub.
+edosec.tokyo is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) into a static site whenever this repository is pushed to GitHub.
 
 ## Creating The Next EdoSec Meetup
 
