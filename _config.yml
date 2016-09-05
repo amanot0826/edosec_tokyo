@@ -3,11 +3,11 @@ title: EdoSec | 江戸sec
 description: > # this means to ignore newlines until "baseurl:"
   Tokyo Security Professional Meetup | セキュリティの輪を広げよう
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://edos.ec"
+url: "http://edosec.tokyo"
 twitter_username:    Edosec
 facebook_username:   edosectokyo
-github_username:     lincolnlogs
-doorkeeper_username: edosec
+#github_username:     amanot0826
+#doorkeeper_username: edosec
 linkedin_username:   
 google_id:           
 copyright: Forked from <a href="https://github.com/bhardin/silisec">Silisec</a>, munged by <a href="https://github.com/lincolnlogs/edosec">Lincolnlogs</a>
